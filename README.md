@@ -13,7 +13,7 @@ simple app performing CRUD operation using Firebase Realtime Database
 1. post 
     -> information to database 
 2. Display 
-    -> information from database for perticular database
+    -> information from database for particular database
 3. update
     -> information of any category from its name
 4. delete 
